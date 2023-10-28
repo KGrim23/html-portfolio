@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(211, 210, 208);
+    margin: justified;
+}
+
+
+
+p {
+    margin: justified;
+    font-family: 'Times New Roman';
+}
+
+
+footer{
+    color: rgb(6, 6, 201);
+    font-weight: 900;
+    text-align: center;
+    font-style: italic;
+}
